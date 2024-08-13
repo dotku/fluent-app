@@ -1,6 +1,6 @@
 # flutter_app
 
-![image](https://github.com/user-attachments/assets/9c5e1c05-9147-4cd6-9c6c-89d521e97279)
+![image](https://github.com/user-attachments/assets/475e3fb4-360f-4496-b43d-19e8f1afaa56)
 
 A new Flutter project.
 
