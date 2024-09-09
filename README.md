@@ -1,4 +1,4 @@
-# flutter_app
+# fluent-app
 
 ![image](https://github.com/user-attachments/assets/475e3fb4-360f-4496-b43d-19e8f1afaa56)
 
